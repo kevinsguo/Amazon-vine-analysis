@@ -12,3 +12,7 @@ Based on the calculations, there are a total of 248 reviews under the Amazon vin
 ![non-vine-analysis](Resources/non-vine-analysis.PNG)
 
 Based on the calculations, there are a total of 17514 reviews not under the Amazon vine programs, with 5154 reviews with 5 star reviews, and 29% of the total reviews are 5 stars. 
+
+# Summary
+
+In comparison, there is a obvious bias for posiive reviews under the Amazon vine program, since the difference in percentage of 5 star views between vine and non-vine is about 12%. 
